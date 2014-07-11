@@ -1,6 +1,7 @@
-ng-poller
+Angular-poller
 =========
-
+Demo 
+The demo for Angular-poller is [here](http://abhikmitra.github.io/ng-poller-demo/#/ "Angular Poller")
 Angular Service for regular polling or periodic calling of a function
 It starts polling and continues polling till a condition is fulfilled.Additional options such as interval and maximum number of times to pull can be configured
 
