@@ -1,7 +1,14 @@
 Angular-poller
 =========
-Demo 
+###Demo### 
 The demo for Angular-poller is [here](http://abhikmitra.github.io/ng-poller-demo/#/ "Angular Poller")
+
+###Installation###
+bower install angularPoller . Add 'ngPoller' to your app module dependencies.
+
+Example repo can be found [here](https://github.com/abhikmitra/ng-poller-demo "Demo Angular Poller") 
+###Description###
+
 Angular Service for regular polling or periodic calling of a function
 It starts polling and continues polling till a condition is fulfilled.Additional options such as interval and maximum number of times to pull can be configured
 
