@@ -1,0 +1,7 @@
+{
+    "name": "angular-poller",
+    "version": "0.1.0",
+    "dependencies": {
+        "angular": ">=1.2"
+    }
+}
